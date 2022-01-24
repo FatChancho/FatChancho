@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+    margin: 2rem;
+
+}
+.barra{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+.barra a{
+    padding: 2rem;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;   
+}
+#photo{
+    width: 100px;
+}
+.head h1{
+    font-size: 3rem;
+}
