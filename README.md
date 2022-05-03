@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 LIST OF MY PROJECTS
 
-[Project-Pong](https://fatchancho.github.io/Pong/)
+[Pong](https://fatchancho.github.io/Pong/) It´s a recreation of the legendary Pong by Atari. (Canvas - JavaScript)
 
-[Project-Bac0](https://baco-drinking-app.herokuapp.com/)
+[Bac0](https://baco-drinking-app.herokuapp.com/)
 
-[Project-LoudLink](https://loudlink.herokuapp.com/)
+[LoudLink](https://loudlink.herokuapp.com/)
 
