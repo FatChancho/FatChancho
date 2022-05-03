@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thius my first commit!!! GGGG
+My name is Christian,I am passionate about everything related to technology, especially web development. I love the idea of being able to create something useful for myself and others. Learn, contribute and keep learning
 
 <!--
 **FatChancho/FatChancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [First project-Pong](https://fatchancho.github.io/Pong/)
+[Second project-Bac0](https://baco-drinking-app.herokuapp.com/)
+[Third project-LoudLink](https://loudlink.herokuapp.com/)
+
